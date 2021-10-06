@@ -43,22 +43,21 @@ The library consists of the following major parts.
 3. Triplet Mining and Contrast Learning Approaches, such as [SimpleCLR](https://arxiv.org/abs/2002.05709) and [MocoV2](https://arxiv.org/abs/2003.04297)
 
 ### RNN Module
-1. A matching module based on [compositional attention networks](https://arxiv.org/abs/1803.03067) to combine static information with dynamic information. 
+1. A matching module based on [compositional attention networks] (https://arxiv.org/abs/1803.03067) to combine static information with dynamic information. 
 2. An improved RNN-version based on [Hierachical Attention Network](https://arxiv.org/abs/2005.12981);
 3. A multi-matching perspective based on cross attentions as the final head. 
 
 ### Unsupervised Encoding Refinement:
-1. Best contrastive Learning methods to extract features in an unsupervised way[SimCLR](https://arxiv.org/pdf/2002.05709.pdf)
-2. Unsupervised Learning methods for feature extraction by contrastive clustering assignment[SwA](https://arxiv.org/pdf/2006.09882.pdf)
-3. Unsupervised feature extraction through network boostrap[BYOL](https://arxiv.org/pdf/2006.07733.pdf)
-4. Feature extraction through visual transformer[ViT](https://arxiv.org/pdf/2104.02057.pdf)
-5. Another Feature extraction through asymmetric contrastive learning[MoCoV3](https://arxiv.org/pdf/2003.04297.pdf)
-6. Best contrastive Learning methods to extract features in an unsupervised way[SimCLR](https://arxiv.org/pdf/2002.05709.pdf)
-7. Normalizing Flow method to learn latent space feature[RealNVP](https://arxiv.org/pdf/1605.08803.pdf)
-8. Residual Flow method to learn latent space feature[ResFlow](https://arxiv.org/pdf/1906.02735.pdf)
-9. Neural ODE method to learn latent space features[NeuralODE](https://arxiv.org/pdf/1806.07366.pdf)
-10. A more powerful Neural ODE model with Stochastic loss estimation[FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
-11. Diffusion process augmented method to learn latent features[Diffusion Model](https://arxiv.org/pdf/2011.13456.pdf)
+1. Best contrastive Learning methods to extract features in an unsupervised way [SimCLR](https://arxiv.org/pdf/2002.05709.pdf)
+2. Unsupervised Learning methods for feature extraction by contrastive clustering assignment [SwA](https://arxiv.org/pdf/2006.09882.pdf)
+3. Unsupervised feature extraction through network boostrap [BYOL](https://arxiv.org/pdf/2006.07733.pdf)
+4. Feature extraction through visual transformer [ViT](https://arxiv.org/pdf/2104.02057.pdf)
+5. Another Feature extraction through asymmetric contrastive learning [MoCoV3](https://arxiv.org/pdf/2003.04297.pdf)
+6. Normalizing Flow method to learn latent space feature [RealNVP](https://arxiv.org/pdf/1605.08803.pdf)
+7. Residual Flow method to learn latent space feature [ResFlow](https://arxiv.org/pdf/1906.02735.pdf)
+8. Neural ODE method to learn latent space features [NeuralODE](https://arxiv.org/pdf/1806.07366.pdf)
+9. A more powerful Neural ODE model with Stochastic loss estimation [FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
+10. Diffusion process augmented method to learn latent features [Diffusion Model](https://arxiv.org/pdf/2011.13456.pdf)
 
 ### NAS Module
 
